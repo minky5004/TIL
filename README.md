@@ -1,2 +1,22 @@
-# TIL
-프롬프트 엔지니어링 기초
+# TIL - CS 지식 정리
+
+컴퓨터 과학(CS) 핵심 개념을 학습하고 정리한 개인 노트입니다.  
+단순히 내용을 옮기지 않고, 공식 문서·원서와 대조해 정확성을 검증한 후 기록합니다.
+
+---
+
+## 학습 문서
+
+| # | 파일 | 핵심 주제 |
+|---|---|---|
+| 1 | [데이터와 표현](./CS%20지식/1.%20데이터와-표현.md) | 비트·바이트, 정수/실수 표현(IEEE 754), 정수 오버플로우, ASCII·Unicode·UTF 인코딩, 엔디안 |
+
+---
+
+## 주요 참고 문서
+
+- [Oracle Java 21 공식 문서](https://docs.oracle.com/en/java/javase/21/docs/api/)
+- [Baeldung — Java 심화 예제](https://www.baeldung.com)
+- [GeeksforGeeks — CS 개념 정리](https://www.geeksforgeeks.org)
+- [IEEE 754 표준 (Wikipedia)](https://en.wikipedia.org/wiki/IEEE_754)
+- [Unicode 공식 사이트](https://home.unicode.org)
