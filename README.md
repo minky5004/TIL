@@ -17,6 +17,8 @@
 
 ## 주요 참고 문서
 
+> 마지막 업데이트: 2026-06-16
+
 - [Oracle Java 21 공식 문서](https://docs.oracle.com/en/java/javase/21/docs/api/)
 - [Baeldung — Java 심화 예제](https://www.baeldung.com)
 - [GeeksforGeeks — CS 개념 정리](https://www.geeksforgeeks.org)
